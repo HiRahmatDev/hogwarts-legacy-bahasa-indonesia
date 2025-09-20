@@ -9,7 +9,7 @@
 
 ## 🚧 Status Pengembangan
 
-Mod terjemahan ini **masih dalam proses pengerjaan** – kami terus menyiapkan mantra terbaik! 🪄✨
+Mod terjemahan ini **masih dalam proses pengerjaan** – saya terus menyiapkan mantra terbaik! 🪄✨
 
 | 🧩 Komponen        | 📊 Progres                  |
 | ------------------ | --------------------------- |
@@ -54,14 +54,14 @@ Tujuannya: supaya pemain Indonesia bisa menyelami dunia sihir dengan lebih nyama
 Teks resmi lisensi:  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-> ⚠️ **Pengecualian:** Seluruh aset dan teks asli _Hogwarts Legacy_ tetap hak cipta Warner Bros./Avalanche; kami tidak melisensikannya.
+> ⚠️ **Pengecualian:** Seluruh aset dan teks asli _Hogwarts Legacy_ tetap hak cipta Warner Bros./Avalanche; saya tidak melisensikannya.
 
 ---
 
 ## 💖 Dukungan & Kredit
 
 Mod ini **gratis**.  
-Jika ingin mendukung pengembangan, Anda dapat memberikan donasi sukarela melalui **Trakteer** ☕✨  
+Jika ingin mendukung pengembangan, Anda dapat memberikan donasi sukarela melalui **[Trakteer](https://teer.id/hirahmat.dev)** ☕✨  
 Donasi bersifat **sukarela** dan **bukan pembelian produk resmi**.
 
 **Supporter Credits**  
