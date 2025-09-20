@@ -65,7 +65,7 @@ Donasi bersifat **sukarela** dan **bukan pembelian produk resmi**.
 
 ## 📬 Kontak
 
-- 🐞 **GitHub Issues** – laporkan bug atau berikan saran
+- 🐞 [**GitHub Issues**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/issues/new?template=translation_feedback.md) – laporkan bug atau berikan saran
 - 📧 Email – <hirahmatdev@gmail.com>
 
 ---

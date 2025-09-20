@@ -70,9 +70,9 @@ Untuk memastikan nama file **benar-benar berakhiran `.pak`**, aktifkan tampilan 
 
 ## 🆘 Bantuan & Dukungan
 
-- Laporkan bug atau saran melalui **[GitHub Issues](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/issues)**.
+- Laporkan bug atau saran melalui [**GitHub Issues**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/issues/new?template=translation_feedback.md).
 - Email: <hirahmatdev@gmail.com>
-- Dukung pengembangan melalui **[Trakteer](https://teer.id/hirahmat.dev)** ☕✨
+- Dukung pengembangan melalui [**Trakteer**](https://teer.id/hirahmat.dev) 🪙✨
 
 ---
 
