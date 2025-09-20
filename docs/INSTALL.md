@@ -16,7 +16,7 @@ Ikuti langkah di bawah agar proses pemasangan berjalan lancar. ✨
 ## ⬇️ Unduh File Mod
 
 1. Buka halaman **[Releases](./releases)** repositori ini.
-2. Pilih rilis terbaru, lalu unduh file `.pak` terjemahan (contoh: `HogwartsLegacy_ID.pak`).
+2. Pilih rilis terbaru, lalu unduh file `HogwartsLegacy_ID.pak`.
 
 ---
 
@@ -48,6 +48,25 @@ Ikuti langkah di bawah agar proses pemasangan berjalan lancar. ✨
 
 ---
 
+## 📝 Penting: Tampilkan Ekstensi File
+
+Untuk memastikan nama file **benar-benar berakhiran `.pak`**, aktifkan tampilan ekstensi di File Explorer:
+
+### Windows 11 / 10
+
+1. Buka **File Explorer**.
+2. Di menu atas, klik **View** → **Show** → centang **File name extensions**.
+
+### Windows 8 / 7
+
+1. Buka **File Explorer / Windows Explorer**.
+2. Klik **Organize** → **Folder and search options**.
+3. Buka tab **View**, lalu **hapus centang** pada **Hide extensions for known file types**, klik **OK**.
+
+> Setelah langkah ini, nama file akan terlihat lengkap, misalnya `HogwartsLegacy_ID.pak`, bukan hanya `HogwartsLegacy_ID`.
+
+---
+
 ## ▶️ Menjalankan Game
 
 - Jalankan _Hogwarts Legacy_ seperti biasa.
@@ -59,7 +78,7 @@ Ikuti langkah di bawah agar proses pemasangan berjalan lancar. ✨
 
 - **Jangan ubah nama file** `.pak`, agar game dapat memuat mod dengan benar.
 - Jika ada pembaruan game resmi, periksa kembali halaman **Releases** untuk versi mod terbaru.
-- Mod ini **tidak memodifikasi file asli**; untuk menghapusnya cukup **hapus file `.pak`** dari folder `~mods`.
+- Mod ini **tidak memodifikasi file asli**; untuk menghapusnya cukup **hapus file `HogwartsLegacy_ID.pak`** dari folder `~mods`.
 
 ---
 
