@@ -7,7 +7,7 @@
 
 ---
 
-## 🚧 Status Pengembangan
+## 🚧 Status Pengembangan (Manual)
 
 Mod terjemahan ini **masih dalam proses pengerjaan** – saya terus menyiapkan mantra terbaik! 🪄✨
 
@@ -32,13 +32,11 @@ Tujuannya: supaya pemain Indonesia bisa menyelami dunia sihir dengan lebih nyama
 
 ---
 
-## 🧙‍♂️ Cara Pasang
+### 🤖 Versi Eksperimen (AI Qwen3: 100%)
 
-1. ✅ Pastikan _Hogwarts Legacy_ sudah terinstal legal di PC Anda.
-2. ⬇️ Unduh file patch terbaru dari [**Releases**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/releases).
-3. 📜 Ikuti petunjuk pemasangan pada [**Panduan Instalasi**](./docs/INSTALL.md).
-4. 🌐 Atur bahasa game di Steam ke **English**.
-5. 🕹️ Jalankan game dan nikmati terjemahan!
+Terdapat **versi eksperimen** yang **telah diubah menggunakan bantuan AI Qwen3**.  
+Versi ini **bukan rilis resmi** dan mungkin memiliki gaya terjemahan berbeda atau ketidaksesuaian.  
+Anda dapat menemukannya di halaman [**Releases**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/releases) dengan label **AI-Qwen3**.
 
 ---
 
