@@ -15,7 +15,7 @@ Ikuti langkah di bawah agar proses pemasangan berjalan lancar. ✨
 
 ## ⬇️ Unduh File Mod
 
-1. Buka halaman **[Releases](./releases)** repositori ini.
+1. Buka halaman [**Releases**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/releases) repositori ini.
 2. Pilih rilis terbaru, lalu unduh file `HogwartsLegacy_ID.pak`.
 
 ---
