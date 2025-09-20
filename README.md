@@ -32,6 +32,16 @@ Tujuannya: supaya pemain Indonesia bisa menyelami dunia sihir dengan lebih nyama
 
 ---
 
+## 🧙‍♂️ Cara Pasang
+
+1. ✅ Pastikan _Hogwarts Legacy_ sudah terinstal legal di PC Anda.
+2. ⬇️ Unduh file patch terbaru dari [**Releases**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/releases).
+3. 📜 Ikuti petunjuk pemasangan pada [**Panduan Instalasi**](./docs/INSTALL.md).
+4. 🌐 Atur bahasa game di Steam ke **English**.
+5. 🕹️ Jalankan game dan nikmati terjemahan!
+
+---
+
 ### 🤖 Versi Eksperimen (AI Qwen3: 100%)
 
 Terdapat **versi eksperimen** yang **telah diubah menggunakan bantuan AI Qwen3**.  
