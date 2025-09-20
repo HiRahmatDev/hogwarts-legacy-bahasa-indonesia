@@ -8,7 +8,7 @@ Ikuti langkah di bawah agar proses pemasangan berjalan lancar. ✨
 ## 🔧 Persyaratan
 
 - **Game**: _Hogwarts Legacy_ versi PC (Steam atau Epic Games) yang **legal** dan **terinstal penuh**.
-- **Ruang kosong**: ±100 MB untuk file terjemahan.
+- **Ruang kosong**: ±2MB untuk file terjemahan.
 - **Bahasa game**: **English** (wajib).
 
 ---
