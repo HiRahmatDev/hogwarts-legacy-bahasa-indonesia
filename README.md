@@ -5,8 +5,6 @@
 > Tidak berafiliasi, disponsori, atau disetujui oleh **Warner Bros. Games**, **Avalanche Software**, maupun pemegang hak cipta lain.  
 > Semua hak cipta atas _Hogwarts Legacy_ dan seluruh aset aslinya tetap milik pemegang hak masing-masing.
 
----
-
 ## 🚧 Status Pengembangan (Manual)
 
 Mod terjemahan ini **masih dalam proses pengerjaan** – saya terus menyiapkan mantra terbaik! 🪄✨
@@ -19,8 +17,6 @@ Mod terjemahan ini **masih dalam proses pengerjaan** – saya terus menyiapkan m
 > Persentase di atas hanyalah perkiraan dan akan diperbarui seiring kemajuan.  
 > Tetap pantau, siapa tahu Niffler mencuri angka-angkanya! 🪙🦝
 
----
-
 ## 🪄 Tentang Mod
 
 Mod ini menambahkan **terjemahan antarmuka dan teks cerita ke Bahasa Indonesia** untuk game _Hogwarts Legacy_.  
@@ -30,8 +26,6 @@ Tujuannya: supaya pemain Indonesia bisa menyelami dunia sihir dengan lebih nyama
 > **Repositori ini hanya berisi file terjemahan siap pakai.**  
 > Tidak tersedia alat, skrip, atau panduan mengedit terjemahan.
 
----
-
 ## 🧙‍♂️ Cara Pasang
 
 1. ✅ Pastikan _Hogwarts Legacy_ sudah terinstal legal di PC Anda.
@@ -40,15 +34,11 @@ Tujuannya: supaya pemain Indonesia bisa menyelami dunia sihir dengan lebih nyama
 4. 🌐 Atur bahasa game di Steam ke **English**.
 5. 🕹️ Jalankan game dan nikmati terjemahan!
 
----
-
-### 🤖 Versi Eksperimen (AI Qwen3: 100%)
+## 🤖 Versi Eksperimen (AI Qwen3: 100%)
 
 Terdapat **versi eksperimen** yang **telah diubah menggunakan bantuan AI Qwen3**.  
 Versi ini **bukan rilis resmi** dan mungkin memiliki gaya terjemahan berbeda atau ketidaksesuaian.  
 Anda dapat menemukannya di halaman [**Releases**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/releases) dengan label **AI-Qwen3**.
-
----
 
 ## 📜 Lisensi
 
@@ -64,8 +54,6 @@ Teks resmi lisensi:
 
 > ⚠️ **Pengecualian:** Seluruh aset dan teks asli _Hogwarts Legacy_ tetap hak cipta Warner Bros./Avalanche; saya tidak melisensikannya.
 
----
-
 ## 💖 Dukungan & Kredit
 
 Mod ini **gratis**.  
@@ -74,8 +62,6 @@ Donasi bersifat **sukarela** dan **bukan pembelian produk resmi**.
 
 **Supporter Credits**  
 (✨ Daftar pendukung akan dicantumkan di sini ✨)
-
----
 
 ## 📬 Kontak
 

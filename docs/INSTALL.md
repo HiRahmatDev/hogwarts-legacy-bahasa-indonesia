@@ -3,22 +3,16 @@
 Terima kasih sudah mendukung proyek mod terjemahan ini!  
 Ikuti langkah di bawah agar proses pemasangan berjalan lancar. ✨
 
----
-
 ## 🔧 Persyaratan
 
 - **Game**: _Hogwarts Legacy_ versi PC (Steam atau Epic Games) yang **legal** dan **terinstal penuh**.
 - **Ruang kosong**: ±2MB untuk file terjemahan.
 - **Bahasa game**: **English** (wajib).
 
----
-
 ## ⬇️ Unduh File Mod
 
 1. Buka halaman [**Releases**](https://github.com/HiRahmatDev/hogwarts-legacy-bahasa-indonesia/releases) repositori ini.
 2. Pilih rilis terbaru, lalu unduh file `HogwartsLegacy_ID.pak`.
-
----
 
 ## 💾 Langkah Instalasi
 
@@ -46,8 +40,6 @@ Ikuti langkah di bawah agar proses pemasangan berjalan lancar. ✨
 4. **Salin** file `.pak` yang telah diunduh ke folder `~mods` (jika belum ada folder `~mods`, tinggal buat foldernya).
 5. Pastikan pengaturan bahasa game di **Steam/Epic** diset ke **English**.
 
----
-
 ## 📝 Penting: Tampilkan Ekstensi File
 
 Untuk memastikan nama file **benar-benar berakhiran `.pak`**, aktifkan tampilan ekstensi di File Explorer:
@@ -65,22 +57,16 @@ Untuk memastikan nama file **benar-benar berakhiran `.pak`**, aktifkan tampilan 
 
 > Setelah langkah ini, nama file akan terlihat lengkap, misalnya `HogwartsLegacy_ID.pak`, bukan hanya `HogwartsLegacy_ID`.
 
----
-
 ## ▶️ Menjalankan Game
 
 - Jalankan _Hogwarts Legacy_ seperti biasa.
 - Antarmuka dan teks cerita yang sudah diterjemahkan akan tampil otomatis. 🌟
-
----
 
 ## ❗ Catatan Penting
 
 - **Jangan ubah nama file** `.pak`, agar game dapat memuat mod dengan benar.
 - Jika ada pembaruan game resmi, periksa kembali halaman **Releases** untuk versi mod terbaru.
 - Mod ini **tidak memodifikasi file asli**; untuk menghapusnya cukup **hapus file `HogwartsLegacy_ID.pak`** dari folder `~mods`.
-
----
 
 ## 🆘 Bantuan & Dukungan
 
