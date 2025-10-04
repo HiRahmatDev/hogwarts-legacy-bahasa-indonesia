@@ -9,8 +9,8 @@ Format mengikuti [Semantic Versioning](https://semver.org/lang/id/).
 
 - Terjemahan **manual** pertama oleh HiRahmatDev.
 - Progres:
-  - 🖥️ Antarmuka (UI): **~2%** selesai.
-  - 🎬 Subtitle/Cerita: **0%**.
+  - 🖥️ Antarmuka (UI): **~5%** selesai.
+  - 🎬 Subtitle/Cerita: **1.5%* selesai*.
 - Catatan:
   - Fokus pada uji coba pipeline dan struktur mod.
   - Beberapa istilah sihir sudah distandarkan.
