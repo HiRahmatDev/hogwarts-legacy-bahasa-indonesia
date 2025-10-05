@@ -12,7 +12,7 @@ Mod terjemahan ini **masih dalam proses pengerjaan** – saya terus menyiapkan m
 | 🧩 Komponen        | 📊 Progres                  |
 | ------------------ | --------------------------- |
 | 🖥️ Antarmuka (UI)  | 🟢 ██░░░░░░░░░░░░░░░░ (5%) |
-| 🎬 Subtitle/Cerita | ⚪ █░░░░░░░░░░░░░░░░░ (1.5%) |
+| 🎬 Subtitle/Cerita | ⚪ █░░░░░░░░░░░░░░░░░ (2%) |
 
 > Persentase di atas hanyalah perkiraan dan akan diperbarui seiring kemajuan.  
 > Tetap pantau, siapa tahu Niffler mencuri angka-angkanya! 🪙🦝
